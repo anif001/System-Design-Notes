@@ -1,4 +1,4 @@
-# What is System Design..
+# What is System Design
 
 ## Definition
 
