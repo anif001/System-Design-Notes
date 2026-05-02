@@ -95,7 +95,9 @@ Applications that require strong system design:
 - Netflix
 - Instagram
 - Amazon
-- Facebook 
+- Facebook
+
+
 These systems handle massive traffic and huge amounts of data daily.
 
 ---
