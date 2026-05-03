@@ -104,6 +104,6 @@ Use when:
 
 ---
 
-# Interview Conclusion
+#Conclusion
 
 Vertical scaling improves a single machine’s capacity, while horizontal scaling increases system capacity by adding multiple servers. Large-scale modern applications mostly prefer horizontal scaling because of better scalability and fault tolerance.
