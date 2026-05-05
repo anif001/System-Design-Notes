@@ -14,7 +14,7 @@
 | Downtime | May require downtime | Usually minimal downtime |
 | Load Balancer Needed | No | Yes |
 | Best For | Small to medium applications | Large-scale distributed systems |
-| Real Examples | Small startups, internal tools | Netflix, Amazon, Instagram |
+| Real Examples | Small startups, internal tools | Netflix, Amazon, Instagram, Facebook|
 
 ---
 
