@@ -62,7 +62,7 @@ Bandwidth = Response Size × Requests/sec
 ---
 
 ## 5. Server Estimation
-Calculating number of servers needed.
+Calculating number of servers needed
 
 ### Formula
 Servers Needed = Peak RPS / Capacity of One Server
