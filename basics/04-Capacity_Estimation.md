@@ -96,7 +96,7 @@ Estimate:
 2. Estimate users and traffic
 3. Estimate storage
 4. Estimate bandwidth
-5. Design architecture
+5. Design architecture 
 
 ---
 
