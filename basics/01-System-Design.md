@@ -68,7 +68,7 @@ Handling 1 million requests without wasting servers or infrastructure cost.
 
 # Why System Design is Important
 
-System Design helps build applications that can:
+System Design helps build applications that can
 
 - handle millions of users
 - scale efficiently
