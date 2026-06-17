@@ -109,4 +109,4 @@ Estimate:
 ---
 
 # Interview Answer
-Capacity Estimation is the process of calculating the infrastructure requirements of a system such as traffic, storage, bandwidth, and servers based on expected load to build scalable and reliable systems.
+Capacity Estimation is the process of calculating the infrastructure requirements of a system such as traffic, storage, bandwidth, and servers based on expected load to build scalable and reliable systems
